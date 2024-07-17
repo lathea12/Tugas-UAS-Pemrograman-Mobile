@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921096057850",
+    "project_id": "foodordertugas",
+    "storage_bucket": "foodordertugas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921096057850:android:88c2e832d2697dc2edaa43",
+        "android_client_info": {
+          "package_name": "com.example.projekutslagi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB_Kfw0JMRHL1v0Xme2hfEGIihE0scWpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
